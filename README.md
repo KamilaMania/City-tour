@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<a href="https://vibrant-goodall-944ec5.netlify.app/" >Here</a> you can find deployed version on that mini app.
+<a href="https://vibrant-goodall-944ec5.netlify.app/" >Here</a> you can find deployed version of that mini app.
 
 ## Available Scripts
 
